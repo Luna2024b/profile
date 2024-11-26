@@ -1,0 +1,64 @@
+h1{
+	color: #f0a6ca;
+	font-size: 75px;
+	font-family: "Playfair Display SC", serif;
+	text-align: center;
+}
+
+img{
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+	object-fit: cover;
+}
+
+.relative_div {
+	position: relative;
+}
+
+#luna {
+	position: absolute;
+	top: 34px;
+    right: 662px;
+}
+
+#banniere{
+	background-color:#ff85a1 ;
+	padding: 50px;
+	margin: 50px;
+	text-decoration: none;
+	border-radius: 50%;
+	width: 500px;
+}
+
+body{
+	background-color: #fae0e4;
+	color: black;
+
+}
+
+.card{
+	text-decoration: none;
+	box-shadow: 5px 5px 5px;
+	border-radius: 20px;
+	margin: 80px;
+	width: 300px;
+	padding: 10px;
+	background-color: #ff99ac;
+	display: flex;
+	justify-content: center;
+
+}
+
+a {
+	text-decoration: none;
+}
+
+.bulles{
+	display: flex;
+	justify-content: space-around;
+	box-shadow: 5px 5px 25px;
+	border-radius: 40%;
+	
+}
+
